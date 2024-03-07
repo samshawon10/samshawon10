@@ -16,6 +16,14 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 - Tools & Frameworks: Git, VSCode, Docker, Linux
 
 
+🌍 I'm eager to connect with fellow developers, tech enthusiasts, and open-source contributors from around the world. Let's build amazing things together!
+
+📫 Feel free to reach out to me via email [samshawon518@gmail.com] or connect on LinkedIn [https://www.linkedin.com/in/shawon-akando/]. Let's code, learn, and innovate together! 🚀
+
+[![GitHub followers](https://img.shields.io/github/followers/samshawon10?label=Follow&style=social)](https://github.com/samshawon10)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samshawon10&label=Profile%20views&color=0e75b6&style=flat" alt="samshawon10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samshawon10" alt="samshawon10" /></a> </p>
@@ -41,15 +49,6 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samshawon10&show_icons=true&locale=en" alt="samshawon10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samshawon10&" alt="samshawon10" /></p>
-
-
-🌍 I'm eager to connect with fellow developers, tech enthusiasts, and open-source contributors from around the world. Let's build amazing things together!
-
-📫 Feel free to reach out to me via email [samshawon518@gmail.com] or connect on LinkedIn [https://www.linkedin.com/in/shawon-akando/]. Let's code, learn, and innovate together! 🚀
-
-[![GitHub followers](https://img.shields.io/github/followers/samshawon10?label=Follow&style=social)](https://github.com/samshawon10)
-
-
 
 <!---
 samshawon10/samshawon10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
