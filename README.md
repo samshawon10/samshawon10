@@ -22,6 +22,7 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 
 [![GitHub followers](https://img.shields.io/github/followers/samshawon10?label=Follow&style=social)](https://github.com/samshawon10)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samshawon10&label=Profile%20views&color=0e75b6&style=flat" alt="samshawon10" /> </p>
 
 
 
@@ -48,7 +49,7 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samshawon10&" alt="samshawon10" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samshawon10&label=Profile%20views&color=0e75b6&style=flat" alt="samshawon10" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samshawon10" alt="samshawon10" /></a> </p>
 
