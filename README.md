@@ -14,8 +14,7 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 - Web Development: HTML, CSS, JavaScript, React
 - Data Science & AI: Machine Learning, Data Analysis, TensorFlow
 - Tools & Frameworks: Git, VSCode, Docker, Linux
-<h1 align="center">Hi 👋, I'm Sam Shawon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samshawon10&label=Profile%20views&color=0e75b6&style=flat" alt="samshawon10" /> </p>
 
