@@ -10,10 +10,10 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 - 🤝 I'm a believer in the power of collaboration and open-source contributions.
 
 🔧 My tech toolkit includes:
-- Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS, JavaScript, React
+- Programming Languages: C, Java, C++, Python(intermediate stage)
+- Web Development: HTML, CSS, JavaScript, React, Tailwind CSS, daisyUI 
 - Data Science & AI: Machine Learning, Data Analysis, TensorFlow
-- Tools & Frameworks: Git, VSCode, Docker, Linux
+- Tools & Frameworks: Git, VSCode, GitHub, gitBash, IntelliJ IDEA
 - (Continue........!!!!)
 
 
