@@ -22,7 +22,7 @@
 
 ## ~/about
 
-```bash
+```text
 $ whoami
 shawon-akando
 
@@ -84,12 +84,11 @@ More work at [shawonakando.dev/projects](https://shawonakando.dev/projects)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samshawon10&show_icons=true&hide_border=false&border_color=1f2a24&bg_color=0a0e0a&title_color=3ddc84&text_color=c9d1d9&icon_color=ffb454" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samshawon10&layout=compact&hide_border=false&border_color=1f2a24&bg_color=0a0e0a&title_color=3ddc84&text_color=c9d1d9" alt="Top languages"/>
+<img src="./assets/stats.svg" alt="GitHub stats and top languages" width="100%"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=samshawon10&background=0A0E0A&border=1F2A24&stroke=1F2A24&ring=3DDC84&fire=FFB454&currStreakNum=3DDC84&currStreakLabel=3DDC84&sideNums=D7FFE5&sideLabels=8B949E&dates=5C6B66" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samshawon10&bg_color=0a0e0a&color=3ddc84&line=3ddc84&point=ffb454&area=true&area_color=3ddc84&hide_border=true&title_color=3ddc84" alt="Contribution graph" width="100%"/>
 
 </div>
 
@@ -97,7 +96,7 @@ More work at [shawonakando.dev/projects](https://shawonakando.dev/projects)
 
 ## ~/contact
 
-```bash
+```text
 $ ./contact.sh --open
 -> hiring for a frontend role?       email me or message on LinkedIn
 -> need a fast, SEO-friendly site?   let's talk about your project
@@ -106,7 +105,7 @@ $ ./contact.sh --open
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-3ddc84?style=flat-square&logo=googlechrome&logoColor=black&labelColor=0a0e0a)](https://shawonakando.dev/)
+[![Portfolio](https://img.shields.io/badge/portfolio-3ddc84?style=flat-square&logo=googlechrome&logoColor=3ddc84&labelColor=0a0e0a)](https://shawonakando.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-1f2a24?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawon-akando/)
 [![X](https://img.shields.io/badge/x-1f2a24?style=flat-square&logo=x&logoColor=white)](https://x.com/samshawon10)
 [![Facebook](https://img.shields.io/badge/facebook-1f2a24?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/sam.shawon.akando)
