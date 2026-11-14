@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="shawon@akando - Frontend Developer, React and Next.js, open to remote work" width="100%"/>
+<img src="./assets/header.svg" alt="shawon@akando - Full Stack Web Developer, React, Next.js and Node.js, open to remote work" width="100%"/>
 
 <br/>
 
@@ -16,45 +16,59 @@
 
 <img src="./assets/marquee.svg" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Express, MongoDB, Firebase" width="100%"/>
 
+<br/><br/>
+
+<img src="./assets/sec-about.svg" alt="~/about" width="100%"/>
+
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<table>
+<tr>
+<td width="280" valign="top" align="center">
 
-## ~/about
+<img src="./assets/photo-top.svg" width="260" alt=""/><br/>
+<img src="./assets/profile.jpg" width="260" alt="Shawon Akando"/><br/>
+<img src="./assets/photo-bottom.svg" width="260" alt=""/>
+
+</td>
+<td valign="top">
 
 ```text
 $ whoami
 shawon-akando
 
 $ cat about.txt
-Full-Stack Web Developer from Bangladesh who builds fast, SEO-friendly,
-conversion-focused web products with React and Next.js.
+Full stack web developer from Bangladesh who builds fast, SEO-friendly,
+conversion-focused web products, from React and Next.js interfaces
+to Node.js, MongoDB and Firebase backends.
 Computer Science and Engineering student at United International University.
 I like hard problems, clean architecture and shipping things people use.
 
 $ cat focus.txt
--> performance-first React and Next.js interfaces
--> SEO-friendly sites that turn visitors into customers
--> clean, reusable component architecture
--> full-stack apps with Node.js, MongoDB and Firebase
+-> full-stack apps: React and Next.js on the front, Node.js, Express and MongoDB behind
+-> auth, databases and REST APIs with Firebase and MongoDB
+-> performance-first, SEO-friendly interfaces that turn visitors into customers
+-> clean, reusable component and API architecture
 
 $ cat status.txt
-now building : CivicSync
+now building : UrbanClick
 studying     : CSE @ United International University
 open to      : remote roles, freelance projects, open-source collaboration
 ```
 
+</td>
+</tr>
+</table>
+
 <div align="center">
 <img src="./assets/counters.svg" alt="18+ projects completed, 4+ years coding, 14+ technologies" width="100%"/>
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ~/stack
-
-<div align="center">
+<br/><br/>
+<img src="./assets/sec-stack.svg" alt="~/stack" width="100%"/>
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git&perline=12&theme=dark" alt="Main stack"/>
 </div>
+
+<br/>
 
 | area | tools |
 |---|---|
@@ -64,9 +78,10 @@ open to      : remote roles, freelance projects, open-source collaboration
 | **tools and design** | `Git` `GitHub` `VS Code` `IntelliJ IDEA` `Figma` `Photoshop` `Illustrator` `Canva` `Notion` `Arduino` |
 | **deploy** | `Vercel` `Netlify` `Firebase Hosting` |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ~/projects
+<div align="center">
+<br/>
+<img src="./assets/sec-projects.svg" alt="~/projects" width="100%"/>
+</div>
 
 | project | what it does | stack |
 |---|---|---|
@@ -74,31 +89,24 @@ open to      : remote roles, freelance projects, open-source collaboration
 | [**sbrn-fashion**](https://sbrn-fashion.vercel.app/) | Modern fashion e-commerce storefront with reusable components and smooth motion | `Next.js` `TypeScript` `Tailwind` `Framer Motion` `REST API` |
 | [**swiftcart**](https://shswiftcart.netlify.app/) · [code](https://github.com/samshawon10/SwiftCart) | Full-stack e-commerce app with product browsing, auth, cart and secure checkout | `React` `Node.js` `Express` `MongoDB` `Firebase Auth` |
 | [**raskillttc.com**](https://raskillttc.com/) | Client website for a training center, built around trust and clear admission paths | `Next.js` `React` `Tailwind` `SEO` |
-| **CivicSync** | Currently in development | `React` `Next.js` `Tailwind` `Firebase` `Node.js` |
+| **urbanclick** | Currently in development | `React` `Next.js` `Tailwind` `Firebase` `Node.js` |
 
 More work at [shawonakando.dev/projects](https://shawonakando.dev/projects)
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ~/activity
-
 <div align="center">
-
-<img src="./assets/stats.svg" alt="GitHub stats and top languages" width="100%"/>
-
 <br/>
-
+<img src="./assets/sec-activity.svg" alt="~/activity" width="100%"/>
+<br/><br/>
+<img src="./assets/stats.svg" alt="GitHub stats and top languages" width="100%"/>
+<br/>
 <img src="https://streak-stats.demolab.com/?user=samshawon10&background=0A0E0A&border=1F2A24&stroke=1F2A24&ring=3DDC84&fire=FFB454&currStreakNum=3DDC84&currStreakLabel=3DDC84&sideNums=D7FFE5&sideLabels=8B949E&dates=5C6B66" alt="GitHub streak"/>
-
+<br/><br/>
+<img src="./assets/sec-contact.svg" alt="~/contact" width="100%"/>
 </div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ~/contact
 
 ```text
 $ ./contact.sh --open
--> hiring for a frontend role?       email me or message on LinkedIn
+-> hiring for a full stack role?     email me or message on LinkedIn
 -> need a fast, SEO-friendly site?   let's talk about your project
 -> into open source?                 happy to collaborate
 ```
