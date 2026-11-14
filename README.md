@@ -51,7 +51,7 @@ $ cat focus.txt
 -> clean, reusable component and API architecture
 
 $ cat status.txt
-now building : UrbanClick
+now building : CivicSync
 studying     : CSE @ United International University
 open to      : remote roles, freelance projects, open-source collaboration
 ```
@@ -89,7 +89,7 @@ open to      : remote roles, freelance projects, open-source collaboration
 | [**sbrn-fashion**](https://sbrn-fashion.vercel.app/) | Modern fashion e-commerce storefront with reusable components and smooth motion | `Next.js` `TypeScript` `Tailwind` `Framer Motion` `REST API` |
 | [**swiftcart**](https://shswiftcart.netlify.app/) · [code](https://github.com/samshawon10/SwiftCart) | Full-stack e-commerce app with product browsing, auth, cart and secure checkout | `React` `Node.js` `Express` `MongoDB` `Firebase Auth` |
 | [**raskillttc.com**](https://raskillttc.com/) | Client website for a training center, built around trust and clear admission paths | `Next.js` `React` `Tailwind` `SEO` |
-| **urbanclick** | Currently in development | `React` `Next.js` `Tailwind` `Firebase` `Node.js` |
+| **civicsync** | Currently in development | `React` `Next.js` `Tailwind` `Firebase` `Node.js` |
 
 More work at [shawonakando.dev/projects](https://shawonakando.dev/projects)
 
