@@ -27,7 +27,7 @@
 <td width="280" valign="top" align="center">
 
 <img src="./assets/photo-top.svg" width="260" alt=""/><br/>
-<img src="./assets/profile.jpg" width="260" alt="Shawon Akando"/><br/>
+<img src="./assets/profile.jpeg" width="260" alt="Shawon Akando"/><br/>
 <img src="./assets/photo-bottom.svg" width="260" alt=""/>
 
 </td>
